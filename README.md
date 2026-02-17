@@ -44,9 +44,8 @@ A simple task management application built with Next.js, leveraging in-memory st
 
 - `src/app`: Next.js App Router pages and API routes.
 - `src/components`: Reusable UI components.
-- `src/lib`: Shared utilities (Database simulation).
+- `src/lib`: Shared utilities.
 - `src/store`: Zustand store.
-- `src/theme.ts`: MUI Theme configuration.
 
 ## Notes
 
