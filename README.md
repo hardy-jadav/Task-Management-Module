@@ -17,7 +17,7 @@ A simple task management application built with Next.js, leveraging in-memory st
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS + Material UI (MUI)
 - **State Management**: Zustand
-- **Auth**: `jose` (JWT)
+- **Auth**: JWT
 
 ## Setup & Run
 
